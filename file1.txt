@@ -1,0 +1,8 @@
+Hola mundo
+git init			/solo se hace una vez
+$ git config --global user.name "German" /solo una vez
+$ git config --global user.email "ga.torres2283@gmail.com" /solo una vez
+
+git status /mirar que no se le esta haciendo seguimiento
+
+
