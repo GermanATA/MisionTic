@@ -3,6 +3,15 @@ git init			/solo se hace una vez
 $ git config --global user.name "German" /solo una vez
 $ git config --global user.email "ga.torres2283@gmail.com" /solo una vez
 
-git status /mirar que no se le esta haciendo seguimiento
+$ git status /mirar que no se le esta haciendo seguimiento
+
+
+Cada que haga un cambio importante que deseo guardar uso estos dos comandos.
+
+$ git add .  /coloca los proyectos en la carpeta dentro del repositorio
+$ git commit -m "se agregan comandos al archivo" / confirma los cambios y puedo añadir notas
+
+
+
 
 
