@@ -11,6 +11,9 @@ Cada que haga un cambio importante que deseo guardar uso estos dos comandos.
 $ git add .  /coloca los proyectos en la carpeta dentro del repositorio
 $ git commit -m "se agregan comandos al archivo" / confirma los cambios y puedo añadir notas
 
+Prueba nube
+hola mundo 2
+
 
 
 
