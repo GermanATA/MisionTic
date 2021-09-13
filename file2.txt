@@ -1,2 +1,2 @@
 hola mundo para segundo archivo
-voy a hacer cambios para ver el comando pull
+voy a hacer cambios para ver el comando git pull
