@@ -1,0 +1,3 @@
+git branch feature/login  (nombre rama) ----me crea un espejo del proyecto principal, para que funcione, el proyecto principal debe estar actualizado tanto en mi computador como en la nube
+
+git checkout feature/login ----- me situa sobre la rama que acabo de crear
