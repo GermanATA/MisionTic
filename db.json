@@ -212,16 +212,6 @@
   		"detail" : "Esta área «desértica» ha dado forma al epicentro turístico del municipio de Villa de Leyva. Aquí, se encuentran amonitas de la prehistoria al levantar pequeñas rocas del suelo, también se hallan en la zona los célebres Pozos Azules, el Museo del Fósil, el Centro de Investigaciones Paleontológicas, la granja de avestruces y los sinuosos y emocionantes caminos de las cuatrimotos."
   	},
   	{
-  		"name" : "Museo del Carmen - Arte Religioso",
-  		"score" : "4.5",
-  		"description" : "Museo",
-  		"longitud": 5.6375232,
-  		"latitud": -73.5253922,
-  		"zoom": 18.67,
-  		"urlPicture" : "https://situr.boyaca.gov.co/wp-content/uploads/2017/05/TEMPLO-NS-CARMEN-2-570x320.jpg",
-  		"detail" : "Ubicado en la Plazuela del Carmen a media cuadra de la plaza principal, en este Museo se puede apreciar una buena muestra de arte religioso de diferentes épocas de la historia colombiana y carmelitana. Cuenta con tesoros artísticos que dan testimonio de la fe y de la historia de la orden de los carmelitas con mas de 400 piezas entre esculturas, pinturas, material textil y escrito algunas procedentes del viejo continente y las demás de los talleres de la colonia del primer siglo de la República."
-  	},
-  	{
   		"name" : "Parque Antonio Nariño",
   		"score" : "4.6",
   		"description" : "Parque",
@@ -230,26 +220,6 @@
   		"zoom": 18.46,
   		"urlPicture" : "https://elturismoencolombia.com/wp-content/uploads/2018/12/villa_leyva_parque_antonio_ricaurte_turismo_colombia_travel1.jpg",
   		"detail" : "Parque construido en honor al Precursor de la independencia Antonio Nariño quien murió en Villa de Leyva. Igualmente podemos observar un busto erigido a uno de los colombianos más influyente de la historia."
-  	},
-  	{
-  		"name" : "Cerro San Marcos",
-  		"score" : "2",
-  		"description" : "Pico de Montaña",
-  		"longitud": 5.6012103,
-  		"latitud": -73.5212671,
-  		"zoom": 15.62,
-  		"urlPicture" : "https://www.villadeleyva.net/wp-content/uploads/2020/12/desierto-villa-de-leyva.jpg",
-  		"detail" : "Es una cumbre en Villa de Leyva y tiene una altitud de 2,629 metros. Cerro San Marcos está situada al noreste de Molino Viejo, cerca de Mirador."
-  	},
-  	{
-  		"name" : "Parroquia Nuestra Señora del Rosario",
-  		"score" : "4.7",
-  		"description" : "Iglesia Católica",
-  		"longitud": 5.6334478,
-  		"latitud": -73.5233023,
-  		"zoom": 19.29,
-  		"urlPicture" : "https://situr.boyaca.gov.co/wp-content/uploads/2017/05/IGLESIA-PLAZA-DE-VILLA-1200x350-c-default.jpg",
-  		"detail" : "Fue construido en 1.604. En la edificación, de tipo barroco colonial, se conservan los retablos tallados en madera y recubiertos en oro."
   	},
   	{
   		"name" : "Ruinas de Gachantiva",
