@@ -119,16 +119,6 @@
   		"zoom": 17,
   		"urlPicture" : "https://images.squarespace-cdn.com/content/v1/5fb835ccc826a723c1eb5874/1606083534421-1VWOEENIJPQAM4X0KEZ7/vi%C3%B1os.jpg",
   		"detail" : "El viñedo se encuentra abierto viernes, sábados, domingos y festivos de 9 a.m. a 6 p.m. Las visitas del viñedo comienzan cada media hora desde la apertura. La última visita guiada comienza a las 5 p.m."
-  	},
-  	{
-  		"name" : "Museo Paleontológico de Villa de Leyva",
-  		"score" : "4.4",
-  		"description" : "Museo y fósil",
-  		"longitud": 5.6436279,
-  		"latitud": -73.5170576,
-  		"zoom": 17.62,
-  		"urlPicture" : "https://mibellavilla.com/wp-content/uploads/2014/12/paleontologico2.jpg",
-  		"detail" : "En este museo podrás encontrar la colección petrográfica, investiga cómo se forman, cómo se clasifican y qué podemos deducir de ellas. Custodia piezas provenientes de diferentes partes de Colombia y de distintos ambientes."
   	}
   ]
 }
