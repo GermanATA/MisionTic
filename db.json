@@ -89,6 +89,46 @@
   		"zoom": 16.38,
   		"urlPicture" : "https://hospedajelatierrita.com/wp-content/uploads/2021/06/Mirador-El-Santo-1024x1024.png",
   		"detail" : "Ubicado a 2.400 msnm, el Mirador Colina El Santo es uno de los lugares de interés local visitado por quienes les gusta conocer nuevas rutas y explorar los lugares que visitan. En lo alto se encuentra una escultura del Sagrado Corazón de Jesús. Al mirador se puede acceder desde la Plaza Principal del pueblo, específicamente por la calle 12."
+  	},
+  	{
+  		"name" : "Plaza de Mercado",
+  		"score" : "4.4",
+  		"description" : "Mercado",
+  		"longitud": 5.6313021,
+  		"latitud": -73.5209143,
+  		"zoom": 17.02,
+  		"urlPicture" : "https://1.bp.blogspot.com/-oFSEGrwk7Ys/Wod4rYFAZuI/AAAAAAAAHXY/UuwSvXO1se8JeAr3IRswQm0IshGxaX8pgCKgBGAs/s640/cumple-villa-de-leyva.jpg",
+  		"detail" : "El mercado de Villa de Leyva existe hace varias décadas, es una tradición en la cual los comerciantes y productores se dan cita cada sábado para vender variedad de productos agrícolas, comida y objetos en diferentes materiales de utilidad hogareña."
+  	},
+  	{
+  		"name" : "Casa Museo Antonio Nariño",
+  		"score" : "4.7",
+  		"description" : "Antigua casa de Antonio Nariño y museo",
+  		"longitud": 5.6322506,
+  		"latitud": -73.5251205,
+  		"zoom": 18.87,
+  		"urlPicture" : "https://www.pueblospatrimonio.com.co/images/atractivos/17/casa-museo-antonio-narino-1.jpg",
+  		"detail" : "La Casa Museo Antonio Nariño lidera la divulgación del pensamiento de este prócer de la independecia, en especial los Derechos del Hombre y del Ciudadano, así como realiza actividades culturales en beneficio de la comunidad.  En esta bella casa colonial del Siglo XVII, recientemente restaurada, pueden encontrar piezas relativas a la época y vida de Don Antonio Nariño.  Destaca su colección de cartas y la traducción de los Derechos del Hombre que enmarcan el claustro principal de la casa."
+  	},
+  	{
+  		"name" : "Viñedo Umaña Dajud",
+  		"score" : "4.3",
+  		"description" : "Vino y cata de vinos",
+  		"longitud": 5.6015213,
+  		"latitud": -73.5543976,
+  		"zoom": 17,
+  		"urlPicture" : "https://images.squarespace-cdn.com/content/v1/5fb835ccc826a723c1eb5874/1606083534421-1VWOEENIJPQAM4X0KEZ7/vi%C3%B1os.jpg",
+  		"detail" : "El viñedo se encuentra abierto viernes, sábados, domingos y festivos de 9 a.m. a 6 p.m. Las visitas del viñedo comienzan cada media hora desde la apertura. La última visita guiada comienza a las 5 p.m."
+  	},
+  	{
+  		"name" : "Museo Paleontológico de Villa de Leyva",
+  		"score" : "4.4",
+  		"description" : "Museo y fósil",
+  		"longitud": 5.6436279,
+  		"latitud": -73.5170576,
+  		"zoom": 17.62,
+  		"urlPicture" : "https://mibellavilla.com/wp-content/uploads/2014/12/paleontologico2.jpg",
+  		"detail" : "En este museo podrás encontrar la colección petrográfica, investiga cómo se forman, cómo se clasifican y qué podemos deducir de ellas. Custodia piezas provenientes de diferentes partes de Colombia y de distintos ambientes."
   	}
   ]
 }
