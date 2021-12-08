@@ -59,6 +59,36 @@
   		"zoom": 17.42,
   		"urlPicture" : "https://elturismoencolombia.com/wp-content/uploads/2018/12/villa_leyva_gondava_turismo_colombia_travel.jpg",
   		"detail" : "Este Parque temático con grandes dinosaurios a escala nos lleva a través de la evolución y recrea un mundo de gigantes llenos de vida y fuerza."
+  	},
+  	{
+  		"name" : "Instituto Von Humboldt",
+  		"score" : "4.7",
+  		"description" : "Museo",
+  		"longitud": 5.6344217,
+  		"latitud": -73.5205146,
+  		"zoom": 18.04,
+  		"urlPicture" : "https://pbs.twimg.com/media/CfssbMfXIAAz8PA.jpg",
+  		"detail" : "El Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, una corporación civil sin ánimo de lucro vinculada al Ministerio de Ambiente, tiene ubicada en este municipio la sede de su Repositorio Institucional de Documentación Científica."
+  	},
+  	{
+  		"name" : "Plaza Mayor de Villa de Leyva",
+  		"score" : "4.8",
+  		"description" : "Gran plaza adoquinada y una iglesia colonial",
+  		"longitud": 5.6338693,
+  		"latitud": -73.5238809,
+  		"zoom": 18.67,
+  		"urlPicture" : "https://upload.wikimedia.org/wikipedia/commons/b/b0/Plaza_Central_o_Plaza_Principal%E2%80%94_Villa_de_Leyva%2C_Boyac%C3%A1%2C_Colombia.jpg",
+  		"detail" : "En el centro del municipio está esta superficie empedrada  de 14.000 m²  y epicentro de  los festivales y celebraciones más populares de la región. Allí se encuentra en perfecto estado  la Iglesia Parroquial que se construyó en la primera mitad del siglo XVII y que es un punto de referencia obligado."
+  	},
+  	{
+  		"name" : "Mirador El Santo Sagrado Corazon de Jesus",
+  		"score" : "4.8",
+  		"description" : "Mirador",
+  		"longitud": 5.6257492,
+  		"latitud": -73.5141887,
+  		"zoom": 16.38,
+  		"urlPicture" : "https://hospedajelatierrita.com/wp-content/uploads/2021/06/Mirador-El-Santo-1024x1024.png",
+  		"detail" : "Ubicado a 2.400 msnm, el Mirador Colina El Santo es uno de los lugares de interés local visitado por quienes les gusta conocer nuevas rutas y explorar los lugares que visitan. En lo alto se encuentra una escultura del Sagrado Corazón de Jesús. Al mirador se puede acceder desde la Plaza Principal del pueblo, específicamente por la calle 12."
   	}
   ]
 }
