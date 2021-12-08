@@ -272,16 +272,6 @@
   		"detail" : "Edificación colonial de arquitectura industrial situada en las vegas del río cane, en un sitio conocido como Valle Escondido entre Gachantivá y Villa de Leyva a 10 km del centro urbano vía Santa Sofía. Consta de dos plantas donde se conserva una antigua  maquinaria para moler granos de trigo y maíz."
   	},
   	{
-  		"name" : "Real Fábrica de Licores",
-  		"score" : "3.7",
-  		"description" : "Museo",
-  		"longitud": 5.6333177,
-  		"latitud": -73.5223234,
-  		"zoom": 20.67,
-  		"urlPicture" : "https://situr.boyaca.gov.co/wp-content/uploads/2017/05/Fabrica-de-licores-villa1.jpg",
-  		"detail" : "Construida en el siglo XVII. Sobre su portada hay un escudo real de España, grabado en piedra; en su interior un patio con fuente de estilo colonial. En época colonial funciono allí el cabildo y luego fue fabrica de aguardiente para abastecer toda la comarca."
-  	},
-  	{
   		"name" : "Pozo de la vieja",
   		"score" : "4.3",
   		"description" : "Atracción Turística",
@@ -290,16 +280,6 @@
   		"zoom": 17.42,
   		"urlPicture" : "https://www.sula.com.co/wp-content/uploads/2021/01/Pozo-de-la-Vieja-1.jpg",
   		"detail" : "El Pozo de la vieja está ubicado a dos km de Villa de Leyva en donde se resalta la riqueza hídrica del lugar y en donde se respira una energía única gracias a su ubicación."
-  	},
-  	{
-  		"name" : "Rio Samacá",
-  		"score" : "3",
-  		"description" : "Rio",
-  		"longitud": 5.6447798,
-  		"latitud": -73.573339,
-  		"zoom": 15.42,
-  		"urlPicture" : "https://s2.wklcdn.com/image_94/2848046/58426797/38996156Master.jpg",
-  		"detail" : "Río Samacá es un arroyo en Boyacá y tiene una altitud de 2065 metros"
   	},
   	{
   		"name" : "Casa del Primer Congreso",
