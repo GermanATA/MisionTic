@@ -1,6 +1,6 @@
 {
-	"lugares":[
-		{
+  "lugares":[
+    {
   		"name" : "Casa Terracota",
   		"score" : "4.4",
   		"description" : "Casa de terracota más grande del mundo",
@@ -19,6 +19,46 @@
   		"zoom": 17.04,
   		"urlPicture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Santuario_Iguaque_03.JPG/1280px-Santuario_Iguaque_03.JPG",
   		"detail" : "Entre las variadas actividades que involucran los ecosistemas ricos de fauna y flora que rodean el municipio, un plan imperdible es el ascenso a la laguna de Iguaque, ubicada a 3.800 metros de altura y a media hora del casco colonial de Villa de Leyva. Un refugio de tranquilidad ideal para reconectar con la naturaleza."
+  	},
+  	{
+  		"name" : "Granja De Avestruces",
+  		"score" : "4.4",
+  		"description" : "Avestruz",
+  		"longitud": 5.616596,
+  		"latitud": -73.5589479,
+  		"zoom": 17.21,
+  		"urlPicture" : "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d6/bc/aa.jpg",
+  		"detail" : "Emprendimientos locales ofrecen múltiples alternativas de diversión entre los cuales se destaca este espacio para interactuar con estos exóticos animales, conocer, huevos, machos hembras y crías a solo seis kilómetros del casco urbano de Villa de Leyva. "
+  	},
+  	{
+  		"name" : "Parque Nacional Natural Paramo de Iguaque",
+  		"score" : "4.6",
+  		"description" : "Lago protegido sagrado para los muiscas",
+  		"longitud": 5.6728666,
+  		"latitud": -73.4617686,
+  		"zoom": 17,
+  		"urlPicture" : "https://colombiapais.com/pagina-parques-nacionales-naturales/imagenes/santuario-de-flora-y-fauna-guanenta-alt-rio-fonce.jpg",
+  		"detail" : "Entre las variadas actividades que involucran los ecosistemas ricos de fauna y flora que rodean el municipio, un plan imperdible es el ascenso a la laguna de Iguaque, ubicada a 3.800 metros de altura y a media hora del casco colonial de Villa de Leyva. Un refugio de tranquilidad ideal para reconectar con la naturaleza."
+  	},
+  	{
+  		"name" : "Museo Luis Alberto Acuña",
+  		"score" : "4.6",
+  		"description" : "Museo",
+  		"longitud": 5.6344212,
+  		"latitud": -73.5238871,
+  		"zoom": 18.04,
+  		"urlPicture" : "https://www.museoscolombia.info/wp-content/uploads/2020/04/laacuna.jpg",
+  		"detail" : "Este museo ubicado en la Plaza Principal conserva parte de las pinturas, esculturas y frisos del artista que le da nombre. Adicionalmente, hay fósiles y diversos objetos arqueológicos y artesanales coleccionados por el maestro Acuña, uno de los pintores más destacados de Colombia del siglo XX."
+  	},
+  	{
+  		"name" : "Gondava",
+  		"score" : "4.4",
+  		"description" : "Parque temático con grandes dinosaurios a escala",
+  		"longitud": 5.63101,
+  		"latitud": -73.5709795,
+  		"zoom": 17.42,
+  		"urlPicture" : "https://elturismoencolombia.com/wp-content/uploads/2018/12/villa_leyva_gondava_turismo_colombia_travel.jpg",
+  		"detail" : "Este Parque temático con grandes dinosaurios a escala nos lleva a través de la evolución y recrea un mundo de gigantes llenos de vida y fuerza."
   	}
-		]
+  ]
 }
