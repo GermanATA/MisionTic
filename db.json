@@ -1,12 +1,16 @@
-[
-	{
-		"name" : "Casa Terracota",
-		"score" : "4.4",
-		"description" : "Casa de terracota más grande del mundo",
-		"longitud": 5.6351173,
-		"latitud": -73.5375441,
-		"zoom": 18,
-		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg",
-		"detail" : "Arquitectura y diseño, así como otras artes y oficios, se fusionan en este mágico lugar. Desde su origen y concepto, el arquitecto y ceramista colombiano Octavio Mendoza Morales, ha buscado promover un estilo de vida alternativo y armonioso, tanto para el individuo, la comunidad, como para el entorno circundante."
-	}
-]
+{
+	"lugares":
+	[
+		{
+			"name" : "Casa Terracota",
+			"score" : "4.4",
+			"description" : "Casa de terracota más grande del mundo",
+			"longitud": 5.6351173,
+			"latitud": -73.5375441,
+			"zoom": 18,
+			"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg",
+			"detail" : "Arquitectura y diseño, así como otras artes y oficios, se fusionan en este mágico lugar. Desde su origen y concepto, el arquitecto y ceramista colombiano Octavio Mendoza Morales, ha buscado promover un estilo de vida alternativo y armonioso, tanto para el individuo, la comunidad, como para el entorno circundante."
+  		}
+		
+	]
+}
